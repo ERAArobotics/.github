@@ -8,3 +8,4 @@
 -->
 
 ERAA is an Austrian association with the goal of promoting STEM in youth.
+Our Github account shows only part of our activities; visit us [on Codeberg](https://codeberg.org/eraa) to get a better picture.
